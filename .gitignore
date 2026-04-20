@@ -1,0 +1,18 @@
+# Ignore temporary or system files
+*.swp
+*.bak
+*.log
+.DS_Store
+*.err
+*.out
+*~
+*.swp
+*.ipynb_checkpoints/
+
+# Ignore all python cache directories
+**/__pycache__/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
